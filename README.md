@@ -33,8 +33,8 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [10 Steps to Get Started in Sports Analytics]([Link](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/))
-* [The Essential Guide to CFB Rankings]([Link](https://thepowerrank.com/guide-cfb-rankings/))
+* [10 Steps to Get Started in Sports Analytics] ([Link](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/))
+* [The Essential Guide to CFB Rankings] ([Link](https://thepowerrank.com/guide-cfb-rankings/))
 * [ChatGPT] ([Link](https://chatgpt.com/))
 
 ## Future Work
